@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 GhostWire
+# ⚙️ GhostWire
 
 **Ephemeral, End-to-End Isolated Session Web Messaging**
 
@@ -69,7 +69,7 @@ ghostwire/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ghostwire.git
+   git clone https://github.com/stackvoided/ghostwire.git
    cd ghostwire
    ```
 
