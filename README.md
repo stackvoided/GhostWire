@@ -50,10 +50,7 @@ ghostwire/
 │   ├── functions.php       # Helper functions & utility methods
 │   ├── storage.php       # Ephemeral storage engine interface
 │   └── upload.php        # Secure temporary file upload handler
-├── api.php                 # Asynchronous AJAX/Fetch endpoint broker
-├── chat.php                # Active chat session interface
-├── file.php                # Ephemeral file retrieval endpoint
-└── index.php               # Landing page & session initializer
+├── php
 ```
 
 ---
